@@ -1,5 +1,6 @@
-# Hi, welcome!✨
-I'm Josetta Reyes💖<br><br>🎓 BS in Software Engineering<br>💻 Front-end dev transitioning into full-stack + backend engineering<br>🚀 Currently learning backend development (Node.js, REST APIs), cloud fundamentals (AWS + Docker), and advanced React Native<br>🗄️ Expanding into databases, authentication, and system design<br>🤝 Open to collaborating on full-stack projects, mobile apps, and anything that empowers communities in tech<br>💬 Ask me about productivity, clean code, or breaking into software as a Latina<br>⚡ Fun fact: I have a twin!
+# Hi, I'm Josetta Reyes💖
+
+BS in Software Engineering<br>💻 Front-end dev transitioning into full-stack + backend engineering<br>🚀 Currently learning backend development (Node.js, REST APIs), cloud fundamentals (AWS + Docker), and advanced React Native<br>🗄️ Expanding into databases, authentication, and system design<br>🤝 Open to collaborating on full-stack projects, mobile apps, and anything that empowers communities in tech<br>💬 Ask me about productivity, clean code, or breaking into software as a Latina<br>⚡ Fun fact: I have a twin!
 
 
 ## Socials📱:
